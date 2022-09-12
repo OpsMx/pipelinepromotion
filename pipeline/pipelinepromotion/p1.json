@@ -1,0 +1,13 @@
+{
+ "application": "pipelinepromotion",
+ "id": "2a57fb8e-cdda-4a67-80c7-23f103799a62",
+ "index": 0,
+ "keepWaitingPipelines": false,
+ "lastModifiedBy": "admin",
+ "limitConcurrent": true,
+ "name": "p1",
+ "schema": "1",
+ "spelEvaluator": "v4",
+ "stages": [],
+ "triggers": []
+}

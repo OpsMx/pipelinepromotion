@@ -1,0 +1,10 @@
+{
+ "cloudProviders": "kubernetes",
+ "email": "pipelinepromotion@gmail.com",
+ "instancePort": 80,
+ "lastModifiedBy": "admin",
+ "name": "pipelinepromotion",
+ "trafficGuards": [],
+ "updateTs": "1662976064000",
+ "user": "admin"
+}
