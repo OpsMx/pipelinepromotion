@@ -1,0 +1,8 @@
+syncToGit
+syncToSpinnaker
+clean-up-pipeline-promotion-jobs
+DB-upgrade-39to310
+DB-Migrate310to311
+ldapusercreation
+ldapuserdeletion
+restart-halyard
